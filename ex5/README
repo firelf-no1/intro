@@ -1,1 +1,26 @@
+firelf
 
+I discussed the exercise with:
+README for ex5:
+Description:
+a wordsearch solver
+Special Comments:
+function used in the program:
+check_arg - a progrem that chaecks if the input is ok
+load_words - Loads a list of  words from a txt file
+load_grid - Loads a grid of letters from a txt file
+f - finds the row and collom of a word
+diraction - finds the diraction of the word
+histogram - runs an histogram function
+hist_search - finds the number of time the word is 
+in the list
+letter_chack - checks the direction of the user input
+der_search - checks if there is more than one
+direction in the user input
+word_search - runs the word search program
+output_diraction - runs the output file writhing
+main - runs main program
+I sorry to say that whan i wrote the code i was sure
+I can modifay it to work on a 3d model
+I regrate to inform you that I have faild and I didn't have 
+time to write a new code.
