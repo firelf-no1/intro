@@ -1,1 +1,19 @@
+firelf	
+021982038	
+itai shopen
 
+I discussed the exercise with:
+README for ex3:
+Description:
+
+Special Comments 
+part D:
+1. cyclic('abcd','bcda')
+returns True becose it is still a cyclic permutation
+2. histogram(3,[1,2,3,4])
+returns [0,1,1] becose I told the progrem to run until n wich is 3 
+3. prime_factors(0)
+returns [] I programed the code to return [] for every number smaller then 2
+4. pairs(2,[0,0,1,1,2,2])
+returns [[0, 2], [0, 2], [0, 2], [0, 2], [1, 1]] becuse i did not programed the program to chack if there
+are dubles in the input line.  
