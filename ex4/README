@@ -1,1 +1,16 @@
+firelf	
+021982038	
+itai shopen
 
+I discussed the exercise with:
+README for ex4:
+Description:
+a hangman game
+Special Comments:
+
+please choose if you want a game with hints or without hints
+in the first row of the function run_singal_game(words_list)
+a - is no hints
+b - is with hints
+
+thank you
