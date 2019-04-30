@@ -1,0 +1,26 @@
+firelf	
+021982038	
+itai shopen
+
+I discussed the exercise with:
+README for ex6:
+Description:
+pictere coraction tool without the use of the pil
+laibrery
+Special Comments:
+when you run the fanction get angle alone from a downsample it gets
+you the correct angle but when you run the function make correction it
+gives you a diffrent angle i chold not figer it out
+function used in the program:
+check_arg - a progrem that chaecks if the input is ok
+num_black - a progrem that chaecks the number of 
+white pixel an the number of black pixel
+averge_num - calculate the averge of a list
+x_check - checks if the number is over 255
+image_diagonal - findes the diagonal lench of a image
+pixel_distance -  checks what is the distance betwin 2 pixel
+line_pixel_counter - count the number of time a white pixel is in the line
+and output the lines rank
+find_center - finds the center of the image
+new_location - finds the location from the new image to the old one
+ 
