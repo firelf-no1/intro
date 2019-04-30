@@ -1,6 +1,6 @@
 ##############################################################
 # FILE : ex7.py
-# WRITER : itai shopen , firelf , 021982038
+# WRITER : itai shopen
 # EXERCISE : intro2cs ex7 2017-2018
 # DESCRIPTION: linear and non linear Recursion
 #############################################################
