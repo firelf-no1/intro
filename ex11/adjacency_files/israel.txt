@@ -1,0 +1,6 @@
+﻿Israel:Egypt,Jordan,Lebanon,Palestine
+Egypt:Israel
+Jordan:Israel,Palestine,Syria
+Lebanon:Israel,Syria
+Palestine:Israel,Jordan
+Syria:Jordan,Lebanon

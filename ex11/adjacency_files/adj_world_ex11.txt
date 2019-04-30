@@ -1,0 +1,239 @@
+Afghanistan:China,Iran,Pakistan,Tajikistan,Turkmenistan,Uzbekistan
+Aland:
+Albania:Greece,Kosovo,Macedonia,Montenegro,Serbia
+Algeria:Libya,Mali,Mauritania,Morocco,Niger,Tunisia,W. Sahara
+American Samoa:
+Andorra:France,Spain
+Angola:Dem. Rep. Congo,Namibia,Congo,Zambia
+Anguilla:
+Antarctica:
+Antigua and Barb.:
+Argentina:Bolivia,Brazil,Chile,Paraguay,Uruguay
+Armenia:Azerbaijan,Georgia,Iran,Turkey
+Aruba:
+Australia:
+Austria:Czech Rep.,Germany,Hungary,Italy,Liechtenstein,Slovakia,Slovenia,Switzerland
+Azerbaijan:Armenia,Georgia,Iran,Russia,Turkey
+Bahamas:
+Bahrain:
+Bangladesh:India,Myanmar
+Barbados:
+Belarus:Latvia,Lithuania,Poland,Russia,Ukraine
+Belgium:France,Germany,Luxembourg,Netherlands
+Belize:Guatemala,Mexico
+Benin:Burkina Faso,Niger,Nigeria,Togo
+Bermuda:
+Bhutan:China,India
+Bolivia:Argentina,Brazil,Chile,Paraguay,Peru
+Bosnia and Herz.:Croatia,Montenegro,Serbia
+Botswana:Namibia,South Africa,Zimbabwe
+Br. Indian Ocean Ter.:
+Brazil:Argentina,Bolivia,Colombia,Guyana,Paraguay,Peru,Suriname,Uruguay,Venezuela
+British Virgin Is.:
+Brunei:Malaysia
+Bulgaria:Greece,Macedonia,Romania,Serbia,Turkey
+Burkina Faso:Benin,Ghana,Côte d'Ivoire,Mali,Niger,Togo
+Burundi:Dem. Rep. Congo,Rwanda,Tanzania
+Cambodia:Lao PDR,Thailand,Vietnam
+Cameroon:Central African Rep.,Chad,Eq. Guinea,Gabon,Nigeria,Congo
+Canada:United States
+Cape Verde:
+Cayman Is.:
+Central African Rep.:Cameroon,Chad,Dem. Rep. Congo,Congo,S. Sudan,Sudan
+Chad:Cameroon,Central African Rep.,Libya,Niger,Nigeria,Sudan
+Chile:Argentina,Bolivia,Peru
+China:Afghanistan,Bhutan,India,Kazakhstan,Kyrgyzstan,Lao PDR,Mongolia,Myanmar,Nepal,Dem. Rep. Korea,Pakistan,Russia,Tajikistan,Vietnam
+Colombia:Brazil,Ecuador,Panama,Peru,Venezuela
+Comoros:
+Congo:Angola,Cameroon,Central African Rep.,Dem. Rep. Congo,Gabon
+Cook Is.:
+Costa Rica:Nicaragua,Panama
+Croatia:Bosnia and Herz.,Hungary,Montenegro,Serbia,Slovenia
+Cuba:United States
+Curaçao:
+Cyprus:
+Czech Rep.:Austria,Germany,Poland,Slovakia
+Côte d'Ivoire:Burkina Faso,Ghana,Guinea,Liberia,Mali
+Dem. Rep. Congo:Angola,Burundi,Central African Rep.,Congo,Rwanda,S. Sudan,Tanzania,Uganda,Zambia
+Dem. Rep. Korea:China,Russia,Korea
+Denmark:Germany
+Djibouti:Eritrea,Ethiopia,Somalia
+Dominica:
+Dominican Rep.:Haiti
+Ecuador:Colombia,Peru
+Egypt:Israel,Libya,Sudan
+El Salvador:Guatemala,Honduras
+Eq. Guinea:Cameroon,Gabon
+Eritrea:Djibouti,Ethiopia,Sudan
+Estonia:Latvia,Russia
+Ethiopia:Djibouti,Eritrea,Kenya,Somalia,S. Sudan,Sudan
+Faeroe Is.:
+Falkland Is.:
+Fiji:
+Finland:Norway,Russia,Sweden
+Fr. Polynesia:
+Fr. S. Antarctic Lands:
+France:Andorra,Belgium,Germany,Italy,Luxembourg,Monaco,Spain,Switzerland
+Gabon:Cameroon,Eq. Guinea,Congo
+Gambia:Senegal
+Georgia:Armenia,Azerbaijan,Russia,Turkey
+Germany:Austria,Belgium,Czech Rep.,Denmark,France,Luxembourg,Netherlands,Poland,Switzerland
+Ghana:Burkina Faso,Côte d'Ivoire,Togo
+Gibraltar:Spain
+Greece:Albania,Bulgaria,Macedonia,Turkey
+Greenland:
+Grenada:
+Guam:
+Guatemala:Belize,El Salvador,Honduras,Mexico
+Guernsey:
+Guinea:Guinea-Bissau,Côte d'Ivoire,Liberia,Mali,Senegal,Sierra Leone
+Guinea-Bissau:Guinea,Senegal
+Guyana:Brazil,Suriname,Venezuela
+Haiti:Dominican Rep.
+Heard I. and McDonald Is.:
+Honduras:El Salvador,Guatemala,Nicaragua
+Hong Kong:
+Hungary:Austria,Croatia,Romania,Serbia,Slovakia,Slovenia,Ukraine
+Iceland:
+India:Bangladesh,Bhutan,China,Myanmar,Nepal,Pakistan
+Indonesia:Timor-Leste,Malaysia,Papua New Guinea
+Iran:Afghanistan,Armenia,Azerbaijan,Iraq,Pakistan,Turkey,Turkmenistan
+Iraq:Iran,Jordan,Kuwait,Saudi Arabia,Syria,Turkey
+Ireland:United Kingdom
+Isle of Man:
+Israel:Egypt,Jordan,Lebanon,Palestine,Syria
+Italy:Austria,France,San Marino,Slovenia,Switzerland,Vatican
+Jamaica:
+Japan:
+Jersey:
+Jordan:Iraq,Israel,Palestine,Saudi Arabia,Syria
+Kazakhstan:China,Kyrgyzstan,Russia,Turkmenistan,Uzbekistan
+Kenya:Ethiopia,Somalia,S. Sudan,Tanzania,Uganda
+Kiribati:
+Korea:Dem. Rep. Korea
+Kosovo:Albania,Macedonia,Montenegro,Serbia
+Kuwait:Iraq,Saudi Arabia
+Kyrgyzstan:China,Kazakhstan,Tajikistan,Uzbekistan
+Lao PDR:Cambodia,China,Myanmar,Thailand,Vietnam
+Latvia:Belarus,Estonia,Lithuania,Russia
+Lebanon:Israel,Syria
+Lesotho:South Africa
+Liberia:Guinea,Côte d'Ivoire,Sierra Leone
+Libya:Algeria,Chad,Egypt,Niger,Sudan,Tunisia
+Liechtenstein:Austria,Switzerland
+Lithuania:Belarus,Latvia,Poland,Russia
+Luxembourg:Belgium,France,Germany
+Macao:
+Macedonia:Albania,Bulgaria,Greece,Kosovo,Serbia
+Madagascar:
+Malawi:Mozambique,Tanzania,Zambia
+Malaysia:Brunei,Indonesia,Thailand
+Maldives:
+Mali:Algeria,Burkina Faso,Guinea,Côte d'Ivoire,Mauritania,Niger,Senegal
+Malta:
+Marshall Is.:
+Mauritania:Algeria,Mali,Senegal,W. Sahara
+Mauritius:
+Mexico:Belize,Guatemala,United States
+Micronesia:
+Moldova:Romania,Ukraine
+Monaco:France
+Mongolia:China,Russia
+Montenegro:Albania,Bosnia and Herz.,Croatia,Kosovo,Serbia
+Montserrat:
+Morocco:Algeria,W. Sahara
+Mozambique:Malawi,South Africa,Swaziland,Tanzania,Zambia,Zimbabwe
+Myanmar:Bangladesh,China,India,Lao PDR,Thailand
+N. Mariana Is.:
+Namibia:Angola,Botswana,South Africa,Zambia
+Nauru:
+Nepal:China,India
+Netherlands:Belgium,Germany
+New Caledonia:
+New Zealand:
+Nicaragua:Costa Rica,Honduras
+Niger:Algeria,Benin,Burkina Faso,Chad,Libya,Mali,Nigeria
+Nigeria:Benin,Cameroon,Chad,Niger
+Niue:
+Norfolk Island:
+Norway:Finland,Russia,Sweden
+Oman:Saudi Arabia,United Arab Emirates,Yemen
+Pakistan:Afghanistan,China,India,Iran
+Palau:
+Palestine:Israel,Jordan
+Panama:Colombia,Costa Rica
+Papua New Guinea:Indonesia
+Paraguay:Argentina,Bolivia,Brazil
+Peru:Bolivia,Brazil,Chile,Colombia,Ecuador
+Philippines:
+Pitcairn Is.:
+Poland:Belarus,Czech Rep.,Germany,Lithuania,Russia,Slovakia,Ukraine
+Portugal:Spain
+Puerto Rico:
+Qatar:Saudi Arabia
+Romania:Bulgaria,Hungary,Moldova,Serbia,Ukraine
+Russia:Azerbaijan,Belarus,China,Estonia,Finland,Georgia,Kazakhstan,Latvia,Lithuania,Mongolia,Dem. Rep. Korea,Norway,Poland,Ukraine
+Rwanda:Burundi,Dem. Rep. Congo,Tanzania,Uganda
+S. Geo. and S. Sandw. Is.:
+S. Sudan:Central African Rep.,Dem. Rep. Congo,Ethiopia,Kenya,Sudan,Uganda
+Saint Helena:
+Saint Lucia:
+Samoa:
+San Marino:Italy
+Saudi Arabia:Iraq,Jordan,Kuwait,Oman,Qatar,United Arab Emirates,Yemen
+Senegal:Gambia,Guinea,Guinea-Bissau,Mali,Mauritania
+Serbia:Albania,Bosnia and Herz.,Bulgaria,Croatia,Hungary,Kosovo,Macedonia,Montenegro,Romania
+Seychelles:
+Sierra Leone:Guinea,Liberia
+Singapore:
+Sint Maarten:St-Martin
+Slovakia:Austria,Czech Rep.,Hungary,Poland,Ukraine
+Slovenia:Austria,Croatia,Hungary,Italy
+Solomon Is.:
+Somalia:Djibouti,Ethiopia,Kenya
+South Africa:Botswana,Lesotho,Mozambique,Namibia,Swaziland,Zimbabwe
+Spain:Andorra,France,Gibraltar,Portugal
+Sri Lanka:
+St-Barthélemy:
+St-Martin:Sint Maarten
+St. Kitts and Nevis:
+St. Pierre and Miquelon:
+St. Vin. and Gren.:
+Sudan:Central African Rep.,Chad,Egypt,Eritrea,Ethiopia,Libya,S. Sudan
+Suriname:Brazil,Guyana
+Swaziland:Mozambique,South Africa
+Sweden:Finland,Norway
+Switzerland:Austria,France,Germany,Italy,Liechtenstein
+Syria:Iraq,Israel,Jordan,Lebanon,Turkey
+São Tomé and Principe:
+Taiwan:
+Tajikistan:Afghanistan,China,Kyrgyzstan,Uzbekistan
+Tanzania:Burundi,Dem. Rep. Congo,Kenya,Malawi,Mozambique,Rwanda,Uganda,Zambia
+Thailand:Cambodia,Lao PDR,Malaysia,Myanmar
+Timor-Leste:Indonesia
+Togo:Benin,Burkina Faso,Ghana
+Tonga:
+Trinidad and Tobago:
+Tunisia:Algeria,Libya
+Turkey:Armenia,Azerbaijan,Bulgaria,Georgia,Greece,Iran,Iraq,Syria
+Turkmenistan:Afghanistan,Iran,Kazakhstan,Uzbekistan
+Turks and Caicos Is.:
+Tuvalu:
+U.S. Minor Outlying Is.:
+U.S. Virgin Is.:
+Uganda:Dem. Rep. Congo,Kenya,Rwanda,S. Sudan,Tanzania
+Ukraine:Belarus,Hungary,Moldova,Poland,Romania,Russia,Slovakia
+United Arab Emirates:Oman,Saudi Arabia
+United Kingdom:Ireland
+United States:Canada,Cuba,Mexico
+Uruguay:Argentina,Brazil
+Uzbekistan:Afghanistan,Kazakhstan,Kyrgyzstan,Tajikistan,Turkmenistan
+Vanuatu:
+Vatican:Italy
+Venezuela:Brazil,Colombia,Guyana
+Vietnam:Cambodia,China,Lao PDR
+W. Sahara:Algeria,Mauritania,Morocco
+Wallis and Futuna Is.:
+Yemen:Oman,Saudi Arabia
+Zambia:Angola,Dem. Rep. Congo,Malawi,Mozambique,Namibia,Tanzania,Zimbabwe
+Zimbabwe:Botswana,Mozambique,South Africa,Zambia
