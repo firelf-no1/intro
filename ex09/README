@@ -14,17 +14,9 @@ the files that we have are:
 asteroid.py
 asteroids_main.py
 background013.png
-screen1.py
+screen.py
 ship.py
 torpedo.py
 
 Special Comments:
-i bilt two games:
-one that works with the screen code you wrote
-and the second one that work with my version of 
-the screen code. 
-the difrent is only in the grapic of
-the game and not in its play.
-if you want to play with my vertion of the game just
-change the name of screen1.py to screen.py and run the game.
 
