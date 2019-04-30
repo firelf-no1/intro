@@ -1,0 +1,35 @@
+firelf	
+021982038	
+itai shopen
+
+I discussed the exercise with: none
+README for ex7:
+Description:
+lots of function linear and non linear Recursion
+Special Comments:
+print_to_n(n) - a program that print's all the positive numbers 
+                      up to n from small to large
+print_reversed(n) - a program that print's all the positive numbers
+                            up to n from large to small
+has_divisor_smaller_then(n, i) - a function that's check if a number
+                                          has any divider smaller then the input
+is_prime(n) - a function to check if n is prime
+divisors(n) - a function that calculate all the dividers of a number
+divisors_loop(n, i, div_list) - a function that makes a loop for the
+                                        function divisors
+exp_n_x(n, x) - a function that calculate the mathematical term 
+                       exp_n(x)
+exp_loop(n, x, i, k, exp_list) - a function that makes a loop for the 
+                                          function exp_n_x
+play_hanoi(hanoi, n, src, dest, temp) - a function to solve the tower 
+                                                        of hanoi
+print_binary_sequences(n) - finds binary sequences in n length
+sequences_loop(char_list, n) - a loop to find the sequences in a char list
+duplicate_checker(ans_list) - checks if there are duplicate in the input list
+print_sequences(char_list, n) - Create all permutations of a string with
+                                             repeating characters
+print_no_repetition_sequences(char_list, n) - Create all permutations of a
+                                                     string with non-repeating characters
+no_repetition_sequences_list(char_list, n) - Create all permutations of a
+                                                   string with non-repeating characters
+                                                   and gives a string output
