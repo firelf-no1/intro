@@ -1,6 +1,6 @@
 ##############################################################
 # FILE : ex6.py
-# WRITER : itai shopen , firelf , 021982038
+# WRITER : itai shopen
 # EXERCISE : intro2cs ex6 2017-2018
 # DESCRIPTION: an image rotators
 #############################################################
