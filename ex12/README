@@ -1,1 +1,63 @@
+Itai Shopen
 
+
+I discussed the exercise with:
+
+
+===========
+= Sites =
+===========
+
+
+====================================
+
+
+
+
+
+==
+=  README for ex12: Four in a row game =
+=============
+=========================
+
+=========
+=========
+=  Description:  =
+==================
+
+
+ex12.py 
+The goal of this program is to build a four in a row game that can
+ run in
+computer network and each player can be human or ai depend on our choose
+
+
+=============================
+=  List of submitted files: =
+=============
+================
+
+
+README               
+This file
+communicator.py      communication file
+
+ai.py                ai file
+
+game.py          game file
+
+four_in_a_row.py     main file
+
+
+=====================
+= Special comments: =
+=====================
+
+
+Our algorithm for the ai implement recursive checking for most favorable move.
+
+in each step we classify all feasible moves and make counter move against them
+in 
+order to find most promising move. we return this step recursively,
+with respect to 
+the time constraint.
