@@ -1,5 +1,5 @@
 #File:ex10.py
-#WRITER: Daniel_Lemberger, daniel12345 , 204049480
+#WRITER: itai shopen
 #EXERCISE: intro2cs ex10 2017-2018
 #DESCRIPTION: In this exercise I practiced using Decision Tree
 import copy
