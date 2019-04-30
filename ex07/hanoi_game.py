@@ -1,4 +1,5 @@
-__author__ = 'ayalg'
+itai shopen
+
 ## Animated Tower-Of-Hanoi game with Tkinter GUI
 ## using Python's turtle module
 ## author: Gregor Lingl, Vienna, Austria
