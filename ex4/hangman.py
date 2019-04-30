@@ -1,6 +1,6 @@
 ##############################################################
 # FILE : ex4.py
-# WRITER : itai shopen , firelf , 021982038
+# WRITER : itai shopen
 # EXERCISE : intro2cs ex3 2017-2018
 # DESCRIPTION: a game of hangman
 #############################################################
